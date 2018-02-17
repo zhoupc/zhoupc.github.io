@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-see [Google Scholar](https://scholar.google.com/citations?hl=en&user=hw0JvzAAAAAJ&view_op=list_works&sortby=pubdate) for a complete list of publications. 
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=hw0JvzAAAAAJ&view_op=list_works&sortby=pubdate) for a complete list of publications. 
 
 ### Journals
 

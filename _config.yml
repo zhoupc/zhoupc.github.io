@@ -14,3 +14,6 @@ gems:
 # Build settings
 markdown: kramdown
 theme: minima
+
+gems: 
+    - jemoji
