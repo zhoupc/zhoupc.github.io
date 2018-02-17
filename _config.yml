@@ -1,6 +1,7 @@
 # Site settings
 title: Hey, I'm PC
 email: zhoupc1988@gmail.com
+author: Pengcheng Zhou
 description: > # this means to ignore newlines until "baseurl:"
    computational neuroscience and machine learning. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/

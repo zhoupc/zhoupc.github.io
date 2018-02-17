@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: CV
 permalink: /resume/
 ---
 [Here](http://) is the latest version of my CV (2017-02-01). 
@@ -9,8 +9,7 @@ permalink: /resume/
 
 * **2006-2010, B.Sc.**, University of Science and Technology of China (Hefei, China)
   * Major: **Physics**
-
-
+<br><br>
 * **2011-2016, Ph.D.**, Carnegie Mellon University (Pittsburgh, United States)
   * Major: **Neural Computation and Machine Learning**; 
   * Advisor: [Robert Kass](www.stat.cmu.edu/~kass)
