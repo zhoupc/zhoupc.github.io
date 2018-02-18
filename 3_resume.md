@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /resume/
 ---
-[Here](http://) is the latest version of my CV (2017-02-01). 
+[Here](/data/cv.pdf) is the latest version of my CV (2018-02-018). 
 
 ### Education
 
@@ -19,4 +19,5 @@ permalink: /resume/
 * **2017-present, Postdoctoral researcher**, Columbia University (New York, United States)
 	* [Department of Statistics](http://stat.columbia.edu/) & [Center for Theoretical Neurosicence](https://ctn.zuckermaninstitute.columbia.edu/)
 	* Advisor: [Liam Paninski](http://www.stat.columbia.edu/~liam/)
+
 
