@@ -7,6 +7,10 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+
+#### :orange_book:  2018-02-23 New paper published in ***eLife***
+Paper "[Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://elifesciences.org/articles/28728)" was online. Congratulations to Pengcheng Zhou et.al.! 
+
 #### :orange_book:  2018-01-31 New paper published in ***Neuron***
 Paper "[Anxiety Cells in a Hippocampal-Hypothalamic Circuit](https://www.sciencedirect.com/science/article/pii/S0896627318300199)" was online. Congratulations to Jessica Jimenez et.al.! 
 
