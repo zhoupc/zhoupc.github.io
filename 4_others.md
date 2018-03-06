@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tools
-permalink: /tools/
+title: Others
+permalink: /others/
 ---
-These are tools that I found useful in my daily research and life. 
+These are resources that I found useful in my daily research and life. 
 
 #### Websites
 
@@ -23,6 +23,7 @@ These are tools that I found useful in my daily research and life.
 
 
 #### Packages
+
 
 - ​
 - ​

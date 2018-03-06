@@ -8,19 +8,19 @@ find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
 
-#### :orange_book:  2018-02-23 New paper published in ***eLife***
+#### :orange_book:  2018-02-23 New paper published on ***eLife***
 Paper "[Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://elifesciences.org/articles/28728)" was online. Congratulations to Pengcheng Zhou et.al.! 
 
-#### :orange_book:  2018-01-31 New paper published in ***Neuron***
+#### :orange_book:  2018-01-31 New paper published on ***Neuron***
 Paper "[Anxiety Cells in a Hippocampal-Hypothalamic Circuit](https://www.sciencedirect.com/science/article/pii/S0896627318300199)" was online. Congratulations to Jessica Jimenez et.al.! 
 
-#### :orange_book:  2017-12-30 New paper published in ***Nature Neuroscience***
+#### :orange_book:  2017-12-30 New paper published on ***Nature Neuroscience***
 Paper "[The central amygdala controls learning in the lateral amygdala](https://www.nature.com/articles/s41593-017-0009-9)" was online. Congratulations to Kai Yu et.al.! 
 
-#### :orange_book:  2017-12-30 New paper published in ***Neuron***
+#### :orange_book:  2017-12-30 New paper published on ***Neuron***
 Paper "[The spatiotemporal organization of the striatum encodes action space](https://www.sciencedirect.com/science/article/pii/S0896627317307304)" was online. Congratulations to Andreas Klaus et.al.! 
 
-#### :orange_book:  2017-03-14 New paper published in ***PLOS Computational biology***
+#### :orange_book:  2017-03-14 New paper published on ***PLOS Computational biology***
 Paper "[Fast online deconvolution of calcium imaging data. *PLoS computational biology*](http://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1005423)" was online. Congratulations to Johannes Friedrich et.al.! 
 
 #### :school:  2017-02-01 New position at Columbia University
