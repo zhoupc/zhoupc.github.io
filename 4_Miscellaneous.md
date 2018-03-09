@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Others
+title: Miscellaneous
 permalink: /others/
 ---
 These are resources that I found useful in my daily research and life. 
