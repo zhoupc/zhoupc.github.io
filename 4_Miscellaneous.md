@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /others/
+permalink: /Miscellaneous/
 ---
 These are resources that I found useful in my daily research and life. 
 
