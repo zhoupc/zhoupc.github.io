@@ -8,7 +8,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=hw0JvzAAAAA
 
 ### Journals
 
-1. **Zhou, P**., Resendez, S.L., Rodriguez-Romaguera, J., Jimenez, J.C., Neufeld, S.Q., Giovannucci, A., Friedrich, J., Pnevmatikakis, E.A., Stuber, G.D., Hen, R. and Kheirbek, M.A., **2018**. [Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://elifesciences.org/articles/28728). ***eLife***, *7*, p.e28728.
+1. **Zhou, P**., Resendez, S.L., Rodriguez-Romaguera, J., Jimenez, J.C., Neufeld, S.Q., Giovannucci, A., Friedrich, J., Pnevmatikakis, E.A., Stuber, G.D., Hen, R., Kheirbek, M.A., Sabatini, B.L., Kass, R.E. and Paninski L., **2018**. [Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://elifesciences.org/articles/28728). ***eLife***, *7*, p.e28728.
 2. Jimenez, J.C., Su, K., Goldberg, A.R., Luna, V.M., Biane, J.S., Ordek, G., **Zhou, P.,** Ong, S.K., Wright, M.A., Zweifel, L. and Paninski, L., **2018**. [Anxiety Cells in a Hippocampal-Hypothalamic Circuit](https://www.sciencedirect.com/science/article/pii/S0896627318300199). ***Neuron***.
 3. Yu, K., Ahrens, S., Zhang, X., Schiff, H., Ramakrishnan, C., Fenno, L., Deisseroth, K., Zhao, F., Luo, M.H., Gong, L., He, M., **Zhou P.**, Paninski L. and Li B.,  **2017**. [The central amygdala controls learning in the lateral amygdala](https://www.nature.com/articles/s41593-017-0009-9). ***Nature neuroscience***, *20*(12), p.1680.
 4. Klaus, A., Martins, G.J., Paixao, V.B., **Zhou, P.**, Paninski, L. and Costa, R.M., **2017**. [The spatiotemporal organization of the striatum encodes action space](https://www.sciencedirect.com/science/article/pii/S0896627317307304). ***Neuron***, *95*(5), pp.1171-1180.
