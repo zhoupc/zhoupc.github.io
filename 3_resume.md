@@ -12,7 +12,7 @@ permalink: /resume/
 <br><br>
 * **2011-2016, Ph.D.**, Carnegie Mellon University (Pittsburgh, United States)
   * Major: **Neural Computation and Machine Learning**; 
-  * Advisor: [Robert Kass](www.stat.cmu.edu/~kass)
+  * Advisor: [Robert Kass](http://www.stat.cmu.edu/~kass)
 
 ### Positions
 
