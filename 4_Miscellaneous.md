@@ -21,7 +21,7 @@ These are resources that I found useful in my daily research and life.
 - [<img style="float: left;" src="/data/imgs/markdown.png" height="20" />Markdown](https://daringfireball.net/projects/markdown/): *Markdown is a text-to-HTML conversion tool for web writers.*
 - [<img style="float: left;" src="/data/imgs/jekyll.png" height="20" />Jekyll](https://www.latex-project.org/) : *transform your plain text into static websites and blogs. This webpage is built based on a template of jekyll [github-pages-academic-starter-kit](https://github.com/jabranham/github-pages-academic-starter-kit).*
 - [<img style="float: left;" src="/data/imgs/git.png" height="24" />](https://git-scm.com/) : *a distributed version control system. I used it for organizing my code and manuscripts. It is powerful when combined with [GitHub](http://github.com/) and [Overleaf](https://www.overleaf.com/signup?ref=e1a13b4226a3).* 
--  [<img style="float: left;" src="/data/imgs/vscode.png" height="24" />  VS code](https://code.visualstudio.com/) : *a source code editor. You can do almost all writing work with VS code. I used to use [VIM](https://www.vim.org/) and [sublime text](https://www.sublimetext.com/), but I switch to VS code once I try it. I still use sublime text occasionally because it's faster to open than VS code.*
+-  [<img style="float: left;" src="/data/imgs/vscode.png" height="24" />  VS code](https://code.visualstudio.com/) : *a source code editor. You can do almost all writing work with VS code. I used to use [VIM](https://www.vim.org/) and [sublime text](https://www.sublimetext.com/), but I switched to VS code once I try it. I still use sublime text occasionally because it's faster to open than VS code.*
 -  
 
 #### Packages
