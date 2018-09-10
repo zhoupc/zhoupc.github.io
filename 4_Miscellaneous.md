@@ -28,6 +28,3 @@ These are resources that I found useful in my daily research and life.
 - [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as appears on the screen. 
 
 
-- ​
-- ​
-
