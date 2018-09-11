@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /resume/
 ---
-[Here](/data/cv/cv.pdf) is the latest version of my CV (2018-09-10). 
+[Here](/data/cv.pdf) is the latest version of my CV (2018-09-10). 
 
 ### Education
 
