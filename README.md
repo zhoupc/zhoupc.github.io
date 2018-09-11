@@ -1,3 +1,7 @@
+# source code for my [personal website](https://zhoupc.github.io/)
+
+**quoted from the forked repo**
+```markdown
 This is a starter kit for making an academic webpage using github pages. There is a live preview of this [available here](https://jabranham.com/github-pages-academic-starter-kit/)
 
 Feel free to fork this project in order to get your own site going. You should be able to fork it and rename it to `<your-username>.github.io` to get started. Please note the license, below.
@@ -16,3 +20,10 @@ That's probably enough to get started right away. Feel free to contact me with a
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+```
+
+## how to maintain the website 
+1. modify _config.yml to personalize your own info
+2. modify each markdown file X_ITEM.md separately, where x specifies the order of showing ITEM on the menubar. 
+3. put linked files in the folder /data/. 
+4. push the changes to your github repo and the website will be automatically built by github.com. 
