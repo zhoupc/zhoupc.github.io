@@ -1,4 +1,4 @@
-# source code for my personal website [zhoupc.github.io](https://zhoupc.github.io/)
+# source code for [zhoupc.github.io](https://zhoupc.github.io/)
 
 **quoted from the forked repo**
 ```markdown
