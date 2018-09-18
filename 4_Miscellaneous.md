@@ -12,7 +12,7 @@ These are resources that I found useful in my daily research and life.
 - [<img style="float: left;" src="/data/imgs/acronymify.jpg" height="16" />](http://acronymify.com/): generate a list of possible acronyms given few keywords. 
 - [<img style="float: left;" src="/data/imgs/github.jpg" height="24" />](http://github.com/zhoupc): a web-based hosting service for version control using git. I prefer to install [GitHub Desktop](https://desktop.github.com/) for GUI. 
 - [<img style="float: left;" src="/data/imgs/slack.png" height="24" />](http://slack.com/): a cloud-based set of proprietary team collaboration tools and services. I use it to communicate with my collaborators and answer questions from users of my softwares (e.g. [CNMF-E](beat-ica.slack.com)). 
-
+  
 #### Softwares
 
 - [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />MATLAB](https://www.mathworks.com/products/matlab.html) 
@@ -28,3 +28,7 @@ These are resources that I found useful in my daily research and life.
 - [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as appears on the screen. 
 
 
+#### Resources 
+- [:smiley: Complete list of github markdown emoji markup
+](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- 

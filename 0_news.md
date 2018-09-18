@@ -7,6 +7,10 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+#### :airplane: 2018-11-02 --- 2018-11-7 Attending SfN annual meeting in San Diego
+I'm looking forward to seeing old friends and potential collaborators in this beautiful place. 
+#### :airplane: 2018-11-01 Upcoming presentation at UCSD
+I'm  going to give a presentation on calcium imaging analysis in the upcoming [MCCS/ICLM workshop 'Imaging the behaving brain with miniscopes'](http://www.silvalab.org/page/MiniscopeWorkshop.html). 
 
 #### :orange_book:  2018-02-23 New paper published on ***eLife***
 Paper "[Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://elifesciences.org/articles/28728)" was online. Congratulations to Pengcheng Zhou et.al.! 
