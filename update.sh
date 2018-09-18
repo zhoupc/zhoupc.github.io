@@ -1,5 +1,4 @@
-wget https://github.com/zhoupc/cv/blob/master/cv.pdf data/cv.pdf 
-
+#!/bin/bash 
 git add --all
 
 git commit -m 'updated'
