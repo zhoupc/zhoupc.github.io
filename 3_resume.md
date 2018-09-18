@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: About Me 
 permalink: /resume/
 ---
 [CV (updated 2018-09-10)](/data/cv.pdf) 
