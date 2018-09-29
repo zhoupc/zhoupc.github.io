@@ -23,11 +23,13 @@ These are resources that I found useful in my daily research and life.
 - [<img style="float: left;" src="/data/imgs/git.png" height="24" />](https://git-scm.com/) : *a distributed version control system. I used it for organizing my code and manuscripts. It is powerful when combined with [GitHub](http://github.com/) and [Overleaf](https://www.overleaf.com/signup?ref=e1a13b4226a3).* 
 -  [<img style="float: left;" src="/data/imgs/vscode.png" height="24" />  VS code](https://code.visualstudio.com/) : *a source code editor. You can do almost all writing work with VS code. I used to use [VIM](https://www.vim.org/) and [sublime text](https://www.sublimetext.com/), but I switched to VS code once I tried it. I still use sublime text occasionally because it has a faster loading speed than VS code.*
 -  [<img style="float: left;" src="/data/imgs/mysql.png" height="24" />MySQL](https://www.mysql.com/) database management system. I use it to organize the data from my collaborators. 
--  [<img style="float: left;" src="/data/imgs/DJiotitle.png" height="24" />  DataJoint](https://datajoint.github.io/) Combined with MySQL, you can manage large scale experimental datasets and access them from MATLAB/Python. 
 
 #### Packages
-- [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as appears on the screen. 
 - [<img style="float: left;" src="/data/imgs/mysql.png" height="24" /> mydumper & myloader](https://centminmod.com/mydumper.html): back up MySQL database servers. It's much faster then mysqldump. 
+
+- [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as appears on the screen. 
+ 
+-  [<img style="float: left;" src="/data/imgs/DJiotitle.png" height="24" />  DataJoint](https://datajoint.github.io/) Combined with MySQL, you can manage large scale experimental datasets and access them from MATLAB/Python. 
 #### Resources 
 - [:smiley: Complete list of github markdown emoji markup
 ](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
