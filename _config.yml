@@ -1,20 +1,45 @@
-# Site settings
 title: Hey, I'm PC
-email: zhoupc1988@gmail.com
 author: Pengcheng Zhou
-description: > # this means to ignore newlines until "baseurl:"
-   computational neuroscience and machine learning. 
-# baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://zhoupc.github.io" # the base hostname & protocol for your site
+email: zhoupc1988@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  computational neuroscience and machine learning. 
+
+# social links
 twitter_username: zhoupc1988
-github_username:  zhoupc
-permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
+github_username: zhoupc 
+#linkedin_username: 
+# rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+#minima:
+#  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+#- about.md
 
 # Build settings
-markdown: kramdown
 theme: minima
 
-gems: 
-    - jemoji
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
