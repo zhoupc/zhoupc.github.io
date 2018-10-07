@@ -14,4 +14,4 @@ I'm currently a postdoctoral research scientist at [Columbia University](https:/
 
 My research lies at the intersection of computational neuroscience and machine learning, focusing on the applications of quantitative approaches to the study of the brain. My current project is to develop new methods for analyzing large-scale multi neuronal recordings, with an emphasis on calcium imaging data. During my PhD studies, I was focusing on the analysis of spike trains and local field potentials. 
 
-I love dealing with data, espcially neural data, which makes me a neural data scientist. With the passion for exploring the information hidden in complicated datasets, I'm open to collaborations. 
+I love dealing with data, espcially neural data, which makes me a **neural data scientist**. With the passion for exploring the information hidden in complicated datasets, I'm open to collaborations. 
