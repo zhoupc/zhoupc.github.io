@@ -30,8 +30,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=hw0JvzAAAAA
 
 ### Preprints
 
-1.  Giovannucci, A., Friedrich, J., Gunn, P., Kalfon, J., Koay, S.A., Taxidis, J., Najafi, F., Gauthier, J.L., **Zhou, P.**, Tank, D.W. and Chklovskii, D.B., 2018. [CaImAn: An open source tool for scalable Calcium Imaging data Analysis](https://www.biorxiv.org/content/early/2018/06/05/339564). bioRxiv, p.339564.
-2.  Buchanan, E.K., Kinsella, I., Zhou, D., Zhu, R., **Zhou, P.**, Gerhard, F., Ferrante, J., Ma, Y., Kim, S., Shaik, M. and Liang, Y., 2018. [Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/early/2018/06/03/334706). bioRxiv, p.334706.
+1.  Giovannucci, A., Friedrich, J., Gunn, P., Kalfon, J., Koay, S.A., Taxidis, J., Najafi, F., Gauthier, J.L., **Zhou, P.**, Tank, D.W. and Chklovskii, D.B., 2018. [CaImAn: An open source tool for scalable Calcium Imaging data Analysis](https://www.biorxiv.org/content/early/2018/06/05/339564). **bioRxiv**, p.339564.
+2.  Buchanan, E.K., Kinsella, I., Zhou, D., Zhu, R., **Zhou, P.**, Gerhard, F., Ferrante, J., Ma, Y., Kim, S., Shaik, M. and Liang, Y., 2018. [Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/early/2018/06/03/334706). **bioRxiv**, p.334706.
 3.  **Zhou, P.**, Resendez, S.L., Stuber, G.D., Kass, R.E. and Paninski, L., **2016**. [Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://arxiv.org/abs/1605.07266). ***arXiv preprint*** arXiv:1605.07266*. (accepted by [eLife, 2018](https://elifesciences.org/articles/28728), )
 
 ### Conferences
