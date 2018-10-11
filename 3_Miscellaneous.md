@@ -27,7 +27,7 @@ These are resources that I found useful in my daily research and life.
 #### Packages
 - [<img style="float: left;" src="/data/imgs/mysql.png" height="24" /> mydumper & myloader](https://centminmod.com/mydumper.html): back up MySQL database servers. It's much faster then mysqldump. 
 
-- [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as appears on the screen. 
+- [<img style="float: left;" src="/data/imgs/matlab.jpeg" height="20" />export_fig](https://github.com/altmany/export_fig/blob/master/export_fig.m): A toolbox for exporting figures from MATLAB to standard image and document formats nicely. You can save figures as what what see appearing on the screen. 
  
 -  [<img style="float: left;" src="/data/imgs/DJiotitle.png" height="24" />  DataJoint](https://datajoint.github.io/) Combined with MySQL, you can manage large scale experimental datasets and access them from MATLAB/Python. Moreover, you can organize your data analysis in a systematic and reproducible pipeline.  
 
