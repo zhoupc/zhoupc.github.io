@@ -35,3 +35,5 @@ These are resources that I found useful in my daily research and life.
 - [:smiley: Complete list of github markdown emoji markup
 ](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [machine learning resources](https://github.com/josephmisiti/awesome-machine-learning) : [:books: books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md), [:computer: softwares](https://github.com/josephmisiti/awesome-machine-learning), [:school: courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md), [:newspaper: blogs](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+- [Adaptive Computation and Machine Learning bookseries
+](https://mitpress.mit.edu/books/series/adaptive-computation-and-machine-learning-series)
