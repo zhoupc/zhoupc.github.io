@@ -37,3 +37,5 @@ These are resources that I found useful in my daily research and life.
 - [machine learning resources](https://github.com/josephmisiti/awesome-machine-learning) : [:books: books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md), [:computer: softwares](https://github.com/josephmisiti/awesome-machine-learning), [:school: courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md), [:newspaper: blogs](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
 - [Adaptive Computation and Machine Learning bookseries
 ](https://mitpress.mit.edu/books/series/adaptive-computation-and-machine-learning-series)
+- [the Neuron Family](https://theneuronfamily.threadless.com/): science-inspired art. 
+- [neurohistory cartoons](https://www.historyofneuroscience.com/timeline.html)
