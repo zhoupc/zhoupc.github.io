@@ -35,7 +35,8 @@ These are resources that I found useful in my daily research and life.
 - [:smiley: Complete list of github markdown emoji markup
 ](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [machine learning resources](https://github.com/josephmisiti/awesome-machine-learning) : [:books: books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md), [:computer: softwares](https://github.com/josephmisiti/awesome-machine-learning), [:school: courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md), [:newspaper: blogs](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
-- [Adaptive Computation and Machine Learning bookseries
+- [Adaptive Computation and Machine Learning book series
 ](https://mitpress.mit.edu/books/series/adaptive-computation-and-machine-learning-series)
 - [the Neuron Family](https://theneuronfamily.threadless.com/): science-inspired art. 
 - [neurohistory cartoons](https://www.historyofneuroscience.com/timeline.html)
+- [PLOS Ten-simple-rules collection for scientists](https://collections.plos.org/ten-simple-rules)
