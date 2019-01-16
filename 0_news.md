@@ -7,6 +7,9 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+#### :airplane: 2019-01-15 Presentation, SCGB NY-Area Postdoc Meeting Series 
+EASE: EM-Assisted Source Extraction from calcium imaging data
+
 #### :airplane: 2018-11-02 --- 2018-11-7 Attending SfN annual meeting in San Diego
 I'm looking forward to seeing old friends and potential collaborators in this beautiful place. 
 #### :airplane: 2018-11-01 Upcoming presentation at UCSD
