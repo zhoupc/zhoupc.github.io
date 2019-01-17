@@ -7,7 +7,7 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
-#### :orange_book:  2018-01-17 New paper published on ***eLife***
+#### :orange_book:  2019-01-17 New paper published on ***eLife***
 Paper "[CaImAn an open source tool for scalable calcium imaging data analysis](https://elifesciences.org/articles/38173)" was online. Congratulations to Giovannucci et.al.! 
 
 #### :train: 2019-01-15 Presentation, SCGB NY-Area Postdoc Meeting Series 
