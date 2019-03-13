@@ -3,7 +3,7 @@ layout: page
 title: About Me 
 permalink: /resume/
 ---
-[CV (updated 2019-01-02)](/data/cv.pdf) 
+[CV (updated 2019-03-12)](/data/cv.pdf) 
 
 ### Education
 
