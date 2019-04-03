@@ -13,10 +13,11 @@ With F-image, you can install and use a package like this.
 fi.install('cnmfe');   # install CNMF-E 
 fi.usepkg('cnmfe');    # use CNMF-E functions in your code. 
 ```
-F-image has a community-curated list of packages used in functional image analysis. Once the package is added to the list, you can use the above function to manage your package. Check the [GitHub repo](https://github.com/zhoupc/F-image) for details. 
+F-image has a community-curated list of packages used in functional image analysis. Once the package is added to the list, you can use the above function to manage your package. Check the [GitHub repo](https://github.com/zhoupc/F-image) for details.  
 
 </p>
 </details>
+
 #### CNMF-E 
 Constrained Nonnegative Matrix Factorization for microEndoscopic data. 'E' also suggests 'extension'. It is build on top of [CNMF](https://github.com/epnev/ca_source_extraction) with supports to 1 photon data. [GitHub](https://github.com/zhoupc/CNMF_E); [Slack](https://beat-ica.slack.com)
 <details><summary>READ MORE</summary>
