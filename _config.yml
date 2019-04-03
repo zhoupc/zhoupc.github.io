@@ -3,6 +3,7 @@ author: Pengcheng Zhou
 email: zhoupc2018@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   computational neuroscience and machine learning. 
+markdown: markdown-it 
 
 # social links
 twitter_username: zhoupc2018
@@ -28,3 +29,4 @@ plugins:
   - jemoji
 # - jekyll-feed
 # - jekyll-seo-tag
+
