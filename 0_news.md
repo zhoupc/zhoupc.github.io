@@ -7,6 +7,8 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+#### :car: 2019-05-22 young investigator lecture, Statistical Analysis of Neural Data ([SAND9](http://sand.stat.cmu.edu/))
+Pittsburgh, I'm back!  
 #### :orange_book:  2019-01-17 New paper published on ***eLife***
 Paper "[CaImAn an open source tool for scalable calcium imaging data analysis](https://elifesciences.org/articles/38173)" was online. Congratulations to Giovannucci et.al.! 
 
