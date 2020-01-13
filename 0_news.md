@@ -17,7 +17,7 @@ Paper "[Short-and-Sparse Deconvolution–A Geometric Approach](https://arxiv.org
 Paper "[CA1-projecting subiculum neurons facilitate object–place learning](https://www.nature.com/articles/s41593-019-0496-y
 )" was online. Congratulations to Sun et.al.! 
 
-#### :car: 2019-05-22 young investigator lecture, Statistical Analysis of Neural Data ([SAND9](http://sand.stat.cmu.edu/))
+#### :car: 2019-05-22 young investigator lecture, [SAND9](http://sand.stat.cmu.edu/)
 Pittsburgh, I'm back!  
 #### :orange_book:  2019-01-17 New paper published on ***eLife***
 Paper "[CaImAn an open source tool for scalable calcium imaging data analysis](https://elifesciences.org/articles/38173)" was online. Congratulations to Giovannucci et.al.! 

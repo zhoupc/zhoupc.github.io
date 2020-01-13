@@ -32,3 +32,11 @@ Fast online deconvolution of calcium imaging. The package was initially develope
 >> fi.install('oasis')
 ```
 
+#### 4. EASE: EM-Assisted Sources Extraction.
+EASE is a toolbox for fusing calcium imaging data and densely reconstructed Electron Microscopy (EM) segments. [Github](https://github.com/zhoupc/ease)
+
+**install with F-image**
+```matlab
+>> fi.install('ease')
+```
+(check the github page to install extra softwares for finishing the configurations)

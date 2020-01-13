@@ -8,7 +8,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=hw0JvzAAAAA
 
 ### Journals
 
-1. Sun, Y., Jin, S., Lin, X., Chen, L., Qiao, X., Jiang, L., **Zhou, P.**, Johnston, K.G., Golshani, P., Nie, Q. and Holmes, T.C., 2019. [CA1-projecting subiculum neurons facilitate object–place learning](https://www.nature.com/articles/s41593-019-0496-y). ****Nature neuroscience****, pp.1-19. 
+1. Sun, Y., Jin, S., Lin, X., Chen, L., Qiao, X., Jiang, L., **Zhou, P.**, Johnston, K.G., Golshani, P., Nie, Q. and Holmes, T.C., 2019. [CA1-projecting subiculum neurons facilitate object–place learning](https://www.nature.com/articles/s41593-019-0496-y). ***Nature neuroscience***, pp.1-19. 
 
 2. Giovannucci, A., Friedrich, J., Gunn, P., Kalfon, J., Brown, B.L., Koay, S.A., Taxidis, J., Najafi, F., Gauthier, J.L., **Zhou, P.**, Khakh, B.S., Tank, D.W., Chklovskii D.B., and Pnevmatikakis, E.A.,   **2019**. [CaImAn an open source tool for scalable calcium imaging data analysis](https://elifesciences.org/articles/38173). ***eLife***, 8, p.e38173.
    
