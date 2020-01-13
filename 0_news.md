@@ -10,6 +10,12 @@ https://www.webpagefx.com/tools/emoji-cheat-sheet/
 #### :orange_book:  2020-01-12 abstract accepted by **COSYNE20**
 Our abstract "**EASE: EM-Assisted Source Extraction from calcium imaging data**" was selected for poster presentation at Cosyne20. I will be in Denver from Feb 27 to Mar. 1.  
 
+#### :orange_book:  2019-12-19 New paper accepted by ***ICLR***
+Paper "[Short-and-Sparse Deconvolution–A Geometric Approach](https://arxiv.org/abs/1908.10959)" was online. Congratulations to Lau et.al.! 
+
+#### :orange_book:  2019-09-23 New paper accepted by ***Nature Neuroscience***
+Paper "[CA1-projecting subiculum neurons facilitate object–place learning](https://www.nature.com/articles/s41593-019-0496-y
+)" was online. Congratulations to Sun et.al.! 
 
 #### :car: 2019-05-22 young investigator lecture, Statistical Analysis of Neural Data ([SAND9](http://sand.stat.cmu.edu/))
 Pittsburgh, I'm back!  
