@@ -7,6 +7,10 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+#### :orange_book:  2020-01-12 abstract accepted by **COSYNE20**
+Our abstract "**EASE: EM-Assisted Source Extraction from calcium imaging data**" was selected for poster presentation at Cosyne20. I will be in Denver from Feb 27 to Mar. 1.  
+
+
 #### :car: 2019-05-22 young investigator lecture, Statistical Analysis of Neural Data ([SAND9](http://sand.stat.cmu.edu/))
 Pittsburgh, I'm back!  
 #### :orange_book:  2019-01-17 New paper published on ***eLife***
