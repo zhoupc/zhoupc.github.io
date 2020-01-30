@@ -7,6 +7,10 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+
+#### :train: 2020-01-28 Seminar talk at Boston University
+Department of Mathematics and Statistics. 
+title: **"Neural data science: from raw neuroscience recordings to scientific discoveries"**
 #### :orange_book:  2020-01-12 abstract accepted by **COSYNE20**
 Our abstract "**EASE: EM-Assisted Source Extraction from calcium imaging data**" was selected for poster presentation at Cosyne20. I will be in Denver from Feb 27 to Mar. 1.  
 
