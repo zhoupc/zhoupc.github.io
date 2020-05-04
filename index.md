@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img style="float: right;" src="/data/zhoupc.jpg" width="200" />
+<img style="float: right;" src="/data/zhoupc3.png" width="150" />
 
 I'm currently a postdoctoral research scientist at [Columbia University](https://www.columbia.edu/), where I work with [Liam Paninski](http://www.stat.columbia.edu/~liam/). Previously, I was a graduate student working with [Robert Kass](http://www.stat.cmu.edu/~kass) at [Carnegie Mellon University (CMU)](http://www.cmu.edu). Before that, I was an undergraduate majoying physics at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), where I was introduced to neuroscience research in [Guoqiang Bi](http://en.hfnl.ustc.edu.cn/Faculty/Facultys/201107/t20110716_116204.html)'s lab. 
 
