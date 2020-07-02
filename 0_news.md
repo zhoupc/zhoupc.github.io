@@ -7,6 +7,8 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+#### :video_camera: 2020-06-30 Virtual talk at Chinese Computation and Cognitive Neuroscience 2020 ([CCCN2020](http://meeting.cns.org.cn/2020CCCNCE/))
+title: **Fusing electron microscopy data and calcium imaging data to achieve functional connectomics**
 
 #### :train: 2020-01-28 Seminar talk at Boston University
 Department of Mathematics and Statistics. 
