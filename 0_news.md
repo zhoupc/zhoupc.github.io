@@ -11,15 +11,15 @@ https://www.webpagefx.com/tools/emoji-cheat-sheet/
 Title: **Fusing electron microscopy data and calcium imaging data to achieve functional connectomics**
 
 
-#### :orange_book:  2020-6-10 New paper published on ***Neurons, Behavior, Data Analysis and Theory (NBDT)***
-
-Our preprint "[EASE: EM-Assisted Source Extraction from calcium imaging data
-](https://www.biorxiv.org/content/10.1101/2020.03.25.007468v1.abstract)" was on bioRxiv. Our computational method on fusing calcium imaging data and electron microscopy data was described  in this preprint. The code was on [Github](https://github.com/zhoupc/ease). 
 
 #### :orange_book:  2020-6-10 New paper published on ***Neurons, Behavior, Data Analysis and Theory (NBDT)***
 Paper "[A zero-inflated gamma model for post-deconvolved calcium imaging traces
 ](https://nbdt.scholasticahq.com/article/13276-a-zero-inflated-gamma-model-for-post-deconvolved-calcium-imaging-traces)" was online. Congratulations to Wei XX & Zhou D. 
 
+#### :orange_book:  2020-3-25 New preprint on ***bioRxiv***
+
+Our preprint "[EASE: EM-Assisted Source Extraction from calcium imaging data
+](https://www.biorxiv.org/content/10.1101/2020.03.25.007468v1.abstract)" was on bioRxiv. Our computational method on fusing calcium imaging data and electron microscopy data was described  in this preprint. The code was on [Github](https://github.com/zhoupc/ease). 
 #### :orange_book:  2020-3-2 New paper published on ***Nature Methods***
 Paper "[Rapid mesoscale volumetric imaging of neural activity with synaptic resolution](https://www.nature.com/articles/s41592-020-0760-9)" was online. Congratulations to Lu R. et.al.! 
 
