@@ -7,9 +7,12 @@ permalink: /news/
 find emojis
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 -->
+
+#### :school: 2020-9-18 I joined Shenzhen Institutes  of Advanced Technologies ([SIAT](http://bcbdi.siat.ac.cn/index.php/member/index.shtml#desc)) as a tenure-track assistant professor and an associate investigator. 
+Exciting things are happening here!
+
 #### :video_camera: 2020-06-30 Virtual talk at Chinese Computation and Cognitive Neuroscience 2020 ([CCCN2020](http://meeting.cns.org.cn/2020CCCNCE/))
 Title: **Fusing electron microscopy data and calcium imaging data to achieve functional connectomics**
-
 
 
 #### :orange_book:  2020-6-10 New paper published on ***Neurons, Behavior, Data Analysis and Theory (NBDT)***
